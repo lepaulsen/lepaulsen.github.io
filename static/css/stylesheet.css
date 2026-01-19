@@ -82,7 +82,9 @@ td,
 
 th,
 tr,
-p,
+p {
+    font-size: 18px;   /* default is ~16px */
+},
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
